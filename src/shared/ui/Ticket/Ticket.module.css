@@ -1,0 +1,21 @@
+.status{
+  position: absolute;
+  right: 0;
+  padding-right: 40px;
+  font-weight: 700;
+}
+
+.closed{
+ color: var(--red);
+}
+
+.open{
+  color: var(--green);
+}
+
+.files{
+  display: flex;
+  margin-left: 140px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
