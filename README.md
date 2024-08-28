@@ -1,6 +1,6 @@
 # carx-technical-task
 
-## Deployment in Vercel: https://carx-technical-task.vercel.app/login
+## Deployment: https://carx-technical-task.netlify.app
 
 ## Main page /tickets
 ![image](https://github.com/rozalinaag/carx-technical-task/assets/59352861/c8c2e62d-769e-4c44-87a6-5e814562a19f)
